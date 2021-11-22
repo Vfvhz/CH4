@@ -1,0 +1,5 @@
+﻿D:\pic\業\程式語言\Visual studio\VS\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+  main.c
+d:\pic\業\程式語言\作業\ch4\110360210_潘宥叡\p28\source\main.c(38): warning C4101: 'i': 未參考的區域變數
+D:\pic\業\程式語言\Visual studio\VS\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(..\..\temp\debug) 與 Linker 的 OutputFile 屬性值 (debug) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+  P28.vcxproj -> D:\pic\業\程式語言\作業\CH4\110360210_潘宥叡\P28\P28\Debug\..\..\temp\debug.exe
